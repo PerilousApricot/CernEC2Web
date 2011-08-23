@@ -1,0 +1,3 @@
+2011-08-23 00:00:58 Warning: Warning (2): fopen(/var/www/html/EC2/tmp/cache/persistent/cake_core_dir_map) [http://php.net/function.fopen]: failed to open stream: Permission denied in [/fs1/home/meloam/cakephp/cake/libs/cache/file.php, line 142]
+2011-08-23 00:00:58 Warning: Warning (2): fopen(/var/www/html/EC2/tmp/cache/persistent/cake_core_file_map) [http://php.net/function.fopen]: failed to open stream: Permission denied in [/fs1/home/meloam/cakephp/cake/libs/cache/file.php, line 142]
+2011-08-23 00:00:58 Warning: Warning (2): fopen(/var/www/html/EC2/tmp/cache/persistent/cake_core_object_map) [http://php.net/function.fopen]: failed to open stream: Permission denied in [/fs1/home/meloam/cakephp/cake/libs/cache/file.php, line 142]
